@@ -1,5 +1,6 @@
 ### Welcome on my GitHub profile ! 🙋‍
 [![FlowArg' Followers](https://img.shields.io/github/followers/FlowArg?color=brightgreen&label=Followers)](https://github.com/FlowArg?tab=followers)
+[![FlowArg' Profile Views](https://komarev.com/ghpvc/?username=FlowArg&color=brightgreen)](https://github.com/FlowArg)
 
 I'm an enthusiastic java developer and a beginner in reverse engineering.
 
