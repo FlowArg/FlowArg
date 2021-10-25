@@ -4,8 +4,11 @@
 
 I'm an enthusiastic java developer and a beginner in reverse engineering.
 
+I also enjoy developing in C++.
+
 I'm using IntelliJ IDEA
 <img alt="Intellij Ultimate " width="27px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 <br>
-[![FlowArg' GitHub stats](https://github-readme-stats.vercel.app/api?username=FlowArg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![FlowArg' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowArg&hide=rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![FlowArg's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlowArg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![FlowArg's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowArg&hide=rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![FlowArg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlowArg&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
