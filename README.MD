@@ -23,7 +23,7 @@
 <details>
 <summary style="font-size:14px">Fancy GitHub stats</summary>
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=NoIdeaIndustry&theme=onedark&no-frame=false&column=-1&margin-w=10"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=FlowArg&theme=onedark&no-frame=false&column=-1&margin-w=10"/>
 
 </details>
 
