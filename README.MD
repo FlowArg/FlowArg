@@ -3,13 +3,10 @@
 [![FlowArg' Profile Views](https://komarev.com/ghpvc/?username=FlowArg&color=brightgreen)](https://github.com/FlowArg)
 
 #### Things you have to know about me:
-* I'm an enthusiastic Java developer and a beginner in reverse engineering.
-* I also enjoy developing in C++ and some other fancy languages.
-* I love complex but really simple things.
-* I'm passionate about physics and maths.
-* I play to Turing Complete
-* I mainly use IntelliJ IDEA.
-* Contact me by Discord instead of mailing me.
+* I use Java as my primary language
+* I've been using Spring for a few years.
+* I'm used to using various technologies such as databases, Docker, Linux...
+* I study physics, maths and chemistry
 
 <br>
 <details>
