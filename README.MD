@@ -17,11 +17,5 @@
 [![FlowArg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlowArg&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-<details>
-<summary style="font-size:14px">Fancy GitHub stats</summary>
-
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=FlowArg&theme=onedark&no-frame=false&column=-1&margin-w=10"/>
-
-</details>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uifadj4kp0qds4k0wnz7hf5z2&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=uifadj4kp0qds4k0wnz7hf5z2&redirect=true)
