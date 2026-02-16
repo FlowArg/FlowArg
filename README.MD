@@ -1,21 +1,10 @@
-### Welcome on my GitHub profile ! 🙋‍
+### Hi, welcome on my Github profile!
 [![FlowArg' Followers](https://img.shields.io/github/followers/FlowArg?color=brightgreen&label=Followers)](https://github.com/FlowArg?tab=followers)
 [![FlowArg' Profile Views](https://komarev.com/ghpvc/?username=FlowArg&color=brightgreen)](https://github.com/FlowArg)
 
-#### Things you have to know about me:
-* I use Java as my primary language
+#### I'm Flow and:
+* Java is my primary language
+* I mainly do backend services
 * I've been using Spring for a few years.
-* I'm used to using various technologies such as databases, Docker, Linux...
-* I study physics, maths and chemistry
-
-<br>
-<details>
-<summary style="font-size:14px">Fancy code stats</summary>
-
-[![FlowArg's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlowArg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![FlowArg's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlowArg&hide=rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![FlowArg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlowArg&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uifadj4kp0qds4k0wnz7hf5z2&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=uifadj4kp0qds4k0wnz7hf5z2&redirect=true)
+* I'm used to working with various technologies such as MariaDB, Docker, Linux, Redis...
+* I currently study physics, maths and chemistry
